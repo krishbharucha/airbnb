@@ -1,0 +1,14 @@
+
+jaffle_shop_3:
+  target: dev
+  outputs:
+    dev:
+      type: snowflake
+      threads: 16
+      account: 
+      user: 
+      database: AIRBNB
+      warehouse: COMPUTE_WH
+      schema: dbt_schema
+      password: Narayannarayan@123
+      role: ACCOUNTADMIN

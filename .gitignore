@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# dbt
+target/
+dbt_packages/
+logs/
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Safety
+Desktop/
+Documents/
